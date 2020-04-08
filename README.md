@@ -1,2 +1,0 @@
-# JSsample
-Created with CodeSandbox
